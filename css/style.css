@@ -667,14 +667,6 @@ button {
     text-align: center;
 }
 
-.testimonial_taital + p {
-    width: 100%;
-    float: left;
-    font-size: 18px; /* Ukuran font bisa disesuaikan */
-    color: #343434;
-    text-align: left;
-    margin-top: 10px;
-}
 
 .testimonial_section_2 {
     width: 100%;
